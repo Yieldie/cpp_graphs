@@ -1,4 +1,4 @@
-#include <structures.hpp>
+#include <basic_algorithms.hpp>
 
 /**
  * This is an example of a label-correcting algorithm (indegree), that uses an information about incoming edges for each vertex

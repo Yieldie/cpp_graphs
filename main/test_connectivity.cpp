@@ -1,5 +1,5 @@
 #include <iostream>
-#include <connectivity.hpp>
+#include <basic_algorithms.hpp>
 
 int main(int argc, char **argv) {
     int n, m, i, j;

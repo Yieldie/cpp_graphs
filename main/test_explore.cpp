@@ -1,5 +1,5 @@
 #include <iostream>
-#include <exploration.hpp>
+#include <basic_algorithms.hpp>
 
 void printGraph(Neighbour *g[], int n) {
     Neighbour *adj;
@@ -33,11 +33,9 @@ int main(int argc, char **argv) {
             graph[j]->next = new Neighbour {i, graph[j]->next};
         }
     }
-    std::cout << "DFS: \n";
     F = DFS(graph, n);
     std::cout << "\nDFS tree/forest: \n";
     printGraph(F, n);
-    std::cout << "\nBFS: \n";
     F = BFS(graph, n);
     std::cout << "\nBFS tree/forest: \n";
     printGraph(F, n);

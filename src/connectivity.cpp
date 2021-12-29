@@ -1,4 +1,4 @@
-#include <structures.hpp>
+#include <basic_algorithms.hpp>
 
 /**
  * This algorithm performs a DFS on the original graph and on the reverse graph. It stores the pre and post values for each vertex,

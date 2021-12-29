@@ -1,5 +1,4 @@
-#include <bipartition.hpp>
-#include <structures.hpp>
+#include <basic_algorithms.hpp>
 
 /**
  * This function makes use of a slightly modified BFS algorithm, updating the labels of vertices appropriately.

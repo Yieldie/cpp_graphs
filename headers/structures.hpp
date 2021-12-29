@@ -1,8 +1,5 @@
 #pragma once
 
-struct Neighbour;
-struct Item;
-
 /**
  * Vertex structure with adjacency list.
  */

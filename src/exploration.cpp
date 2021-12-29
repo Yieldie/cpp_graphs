@@ -1,4 +1,4 @@
-#include <structures.hpp>
+#include <basic_algorithms.hpp>
 
 /**
  * A classic non-recursive DFS algorithm implemented with a stack.

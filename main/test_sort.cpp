@@ -1,5 +1,5 @@
 #include <iostream>
-#include <sort.hpp>
+#include <basic_algorithms.hpp>
 
 void testCyclic(int l, int h) {
     int *result;

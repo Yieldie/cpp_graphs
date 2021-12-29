@@ -1,5 +1,5 @@
 #include <iostream>
-#include <bipartition.hpp>
+#include <basic_algorithms.hpp>
 
 void testCyclic(int k) {
     int *result;
