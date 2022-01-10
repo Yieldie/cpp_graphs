@@ -1,4 +1,4 @@
-# cpp_graphs_example
+# cpp_graphs
 Some basic graph algorithms in c++
 
 Files in ```src``` directory contain implementation of several basic graph algorithms: exploration of the graph - DFS and BFS, topological sorting of vertices in a directed graph with cycle detection, finding strongly connected components in a directed graph, checking if a graph is bipartite and returning one of possible partitions. I used the adjacency list (linked list) representation of a graph.
